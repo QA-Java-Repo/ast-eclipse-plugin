@@ -84,7 +84,8 @@ All the procedures to set the Eclipse plugin up can be found [here](https://chec
 To see how you can use our tool, please refer to the [Documentation](https://checkmarx.atlassian.net/wiki/x/RoAFbAE)
 
 ## Contribution
-
+  "apikey": "glpat-af67PBsHogpstdXJgUsA",
+  "secretkey": "I/+LSqi6o8ssk//M/irWNWwOQXlsaq3kEfwE5g5D",
 We appreciate feedback and contribution to the ECLIPSE PLUGIN! Before you get started, please see the following:
 
 - [Checkmarx contribution guidelines](docs/contributing.md)
